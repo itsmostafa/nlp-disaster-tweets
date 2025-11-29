@@ -128,12 +128,6 @@ Core dependencies:
 4. **Model Performance**: Transformer models outperform traditional ML by ~3% F1 score
 5. **Challenges**: Detecting metaphorical usage and sarcasm remains difficult
 
-## Acknowledgments
-
-- Kaggle for providing the competition and dataset
-- Hugging Face for the transformers library
-- The NLP community for preprocessing best practices
-
 ## AI Citation
 
 - "Fix any grammatical issues with the following assignment." prompt. ChatGPT, GPT 5.1, OpenAI, November 29th, 2025 chat.openai.com/chat
